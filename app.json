@@ -112,18 +112,18 @@
     },
     "SESSION_ID": {
       "description": "put your session ID , the code you receive after scanning Qr code",
-      "value": "",
+      "value": "DULLAH-MD;;;H4sIAAAAAAAAA5VUa4+qSBD9K5v+qrnKS8BkkgVEEd8KKmz2QwsNtPLsblS8mf++wZnZO8ndvTvLp6Zoqs45daq+g7zAFM1QA4bfQUnwFTLUHllTIjAEeh1FiIAuCCGDYAg8QyjMWTU2c47PljO/Rgxd7M7jTJTNzKyxHgbz6c2jCb95Aa9dUNanFAe/SHjaS3BbJdZjdVqsqok+OU0Em46z3N7ed9O1GMJ8o8jlXsuCF/DaZoSY4Dw2ywRliMB0hpo1xORr8Gurf1o2ARvHD/XS86v93kf5VHDJdEqVbBIJmYj3y1Jd7r8If6sjpbgdbpI46aynabbzEYo9Sct7lwKXsjDq9KqSX1fbJn6DT3Gco3Aaopxh1nxZ92KlcQtXuXWsuUgFkmlH3uEXOnc5anU89x5kMKX4jsqdG38N+I4q8rzKjhHJJrXS7wyCVb9c6zS6mrfGd8LgfInUs+VWDf0MfE0+vHL5P7pXJnVlWb5Tm7vtjcKZ1Eo1OtfnmiVV4K3Lkuvv/djkdUv8GnxcYf/WX21GzmgwOxvWUp8snLXGdMU8avmamray6Ztjh44/6Q5ZTX6FMpntbQmnunhL4RUK03PoV6y2d9dNeeBYNXcqgdWEy+yxb0i38yGqQm6+8lbk2E/sED+4jqQtlONFW1mks/AO0dXrJbeXJ6MLaqYhGHKvXUBQjCkjkOEib2N8F8DwukMBQewpLnjkye7u8q5zjU/G/MLVy/AcRfwkQ+rSbyZy5aeFdNopcRq/gC4oSREgSlFoYcoK0iwQpTBGFAz/ePappUxQVjBk4xAMAS9JsqRIstQX+N/pt1sCGYVl+S1HDHRBRIpsgcCQkRp1wfMHkxN4WRMHGif2NcnkZVlRZWk0GCiSqSgjuSWYvRV1cIYog1kJhpwsqqI0UAX59c8uyNGdvbmn5SxwXRBhQpmb12VawPDDWh8fYRAUdc52TR4Y7QERMPwURozhPKYtszqHJEjwFRktDzCMYErR3zIjgsIPLu+rwyjCtvszzRb2hiGDFnub6CdthpL6szzp89pAFlRB7SuqyItce68Nd0EO21RgiYMihTX9bQRzjNJWnnfgbZ0QMYhTCobAWBwfRedimGt0zeh0MtEWsWbEGvhB9MO2b8agtH+8k0iQZoTf0mMmepYY6vd460Y+7+tbf+ZnRjI49Zzg5R+StKw9NaiMfRmW40kZcaPNyYixE0W9weWw2OBt+RDM4OhUpq5ej1lNbG9puPwS6ckl1jKq7tcZkY9I1BrssMRynOx21TYvbbUQXXGAPheT3fpUjDubwjmT3cku0vPMMOV00/GunmkcdqX1SMxHLz8cucA99fMFi1f5kXCWLcz2DVdYtnAeSG66TlhHRnrH69Wjj4F6DnT6vkjxu9nx8zXC6LmX3rvxny19A946r//a/ZTjfdP9y7bQT/PlWIGC2tlV6uU0luqJ3rE2gWfuLT7MNu5hl/lxgbJeXwCv7QiUKWRRQTIwBDAPSfG0DCnq1srTPCp+UczQ4ulo88Y8hZRpP8bj54lT1MHbrTUpSgvSBAyBEK9d+9J6vdHKcscg+5g2oLWPMcrB61/QwFd8DggAAA==",
       "required": true
     },
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "ᴅᴜʟʟᴀʜ xᴍᴅ"
+      "value": "Nicolaus Daniel ❤️"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "255716945971"
+      "value": "255758575032"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
